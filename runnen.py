@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 27 16:15:29 2022
 
-@author: hester
+@author: hester klomp
 """
 
 import matplotlib as plt
